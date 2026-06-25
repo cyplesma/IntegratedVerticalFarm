@@ -19,3 +19,9 @@ The project combines existing technologies—including controlled-environment ag
 This is currently a concept and design study.
 
 The goal is to explore how existing technologies can be combined into a scalable agricultural platform. The project is not seeking investment, patents, or exclusivity. The concept is shared openly for discussion, improvement, and implementation by anyone who finds value in it.
+
+## Documents
+
+- [Full Proposal (PDF)](docs/IVFS_Proposal_v1.0_2026_06.pdf)
+- [Full Proposal (Markdown)](docs/FullConcept.md)
+- [One Page Overview](docs/IVFS.jpg)
