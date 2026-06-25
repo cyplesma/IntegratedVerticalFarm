@@ -23,6 +23,6 @@ The goal is to explore how existing technologies can be combined into a scalable
 ## Documents
 
 - [Full Proposal (PDF)](IVFS_Proposal_v1.0_2026-06.pdf)
-- [Full Proposal (Markdown)](FullConcept_Text.md)
+- [Full Proposal (Markdown)](FullConcept_Text_v1.0_2026-06.md)
 - ![One Page Overview](IVFS.jpg)
 
