@@ -13,3 +13,9 @@ The project combines existing technologies—including controlled-environment ag
 - Open and Repairable Systems
 
 "The building is the farm."
+
+## Status
+
+This is currently a concept and design study.
+
+The goal is to explore how existing technologies can be combined into a scalable agricultural platform. The project is not seeking investment, patents, or exclusivity. The concept is shared openly for discussion, improvement, and implementation by anyone who finds value in it.
