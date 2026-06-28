@@ -26,4 +26,5 @@ The goal is to explore how existing technologies can be combined into a scalable
 - [Full Proposal (Markdown)](IVFS_Proposal_v1.0_2026-06.md)
 - [IVFS Functional Diagram v 1.0](IVFS_FunctionalDiagram_v1.0.png)
 - ![One Page Overview](IVFS.jpg)
+- ![Grow Bed Concept](GrowBedConcept_v1.0.png)
 
